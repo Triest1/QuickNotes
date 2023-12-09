@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reactnative-firebase",
-    "slug": "reactnative-firebase",
+    "name": "notesApp",
+    "slug": "notesApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
